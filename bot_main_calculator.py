@@ -3,7 +3,7 @@ from calc import TestApp
 from dati import Dati
  
 # IMPORTANTE: inserire il token fornito dal BotFather nella seguente stringa
-TOKEN="5461678538:AAEcnJsd-0_kU29U7m5RoALSBVFGyDfHjJE"
+TOKEN=""
 K=3
 def extract_number(text):
      nDomande=text.split()[1].strip()
